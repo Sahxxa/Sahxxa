@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sobre:)](https://git.io/typing-svg)
 
-Olá!! Me chamo Sabrina Meira, tenho 20 anos e sou natural da Paraíba. Atualmente, estou cursando Engenharia de Computação no IFPB e tenho interesse nas áreas de front-end, IoT e cibersegurança.
+Olá!! Me chamo Sabrina Meira, tenho 21 anos e sou natural da Paraíba. Atualmente, estou cursando Engenharia de Computação no IFPB e tenho interesse nas áreas de front-end, IoT e cibersegurança.
 
 <p align="left">
     <a href="">
